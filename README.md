@@ -1,9 +1,11 @@
 # SH-GROUP-16
 A group work of SH front-end GROUP 16
-Current team lead Scott Ehigie SH-IT-0079866. 
-Current Assistant team lead Chiemerie Oguejiofor SH-IT-0058902. 
+Team lead Patricia Itiung SH-IT-0000655. 
 
-Other members who contributed to the project's html are listed below:
+Capstone project's team lead Scott Ehigie SH-IT-0079866. 
+Capstone project's Assistant team lead Chiemerie Oguejiofor SH-IT-0058902. 
+
+Team embers who contributed to the project's html are:
 Samuel Akiode SH-IT-0004602, 
 Patricia Itiung SH-IT-0000655, 
 Balarm etowa SH-IT-0050187, 
