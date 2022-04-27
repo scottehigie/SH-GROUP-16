@@ -9,6 +9,6 @@ Patricia Itiung SH-IT-0000655,
 Balarm etowa SH-IT-0050187, 
 Toroabasi Jeremiah SH-IT-0109316. 
 
-Scott Ehigie and Chiemerie Oguejiofor worked on the CSS and finalized the project. 
+Scott Ehigie and Chiemerie Oguejiofor finalized the html and worked on the CSS. 
 
 
